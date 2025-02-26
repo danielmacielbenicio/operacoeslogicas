@@ -1,1 +1,3 @@
 # operacoeslogicas
+
+OPERAÇÕES LÓGICAS BASEADAS NA TABELA VERDADE, UTILIZANDO ELSE E IF em java
